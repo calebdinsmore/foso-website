@@ -25,4 +25,4 @@ If you would like to become an official contributor to the project, please conta
 After you've been added, you may branch off of `master` and make changes (bug fixes, new features, etc.) to the code there. Once done, make a `Pull Request` so that your changes can be added to `master`.
 
 ## Questions?
-Direct any questions to Caleb Dinsmore via any of the standard FOSO channels, or email at calebjdinsmore@gmail.com.
+Direct any questions to Caleb Dinsmore via any of the standard FOSO channels, or email at caleb@calebdinsmore.com.
