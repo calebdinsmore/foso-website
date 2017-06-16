@@ -14,6 +14,14 @@ This API will control user management and be the backbone for the website. It wi
 - Framework: Angular 2
 - Language: TypeScript (transpiles into JavaScript)
 
+## Current Features Planned
+- Integration with the Steam API--users will be able to log in with their Steam credentials and see what games they have in common with other members of FOSO.
+- An online quote archive.
+  - Karma system?
+- Announcements from the PA/other FOSOians.
+- Prominent section honoring the Captain.
+- FOSO History page
+
 ## Other Stuff
 
 ### Feature Requests
